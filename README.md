@@ -15,8 +15,8 @@ Este projeto tem como objetivo criar um formulário para leitura e modificação
 2. Tkinter  (criação interface gráfica)
 
 ## Instalação
-1. CLone este repositório:
-    git clone https://github.com/seu-usuario/seu-repositorio.git
+1. Clone este repositório:
+    git clone https://github.com/kleberm021/projeto-python-1
 
 2. Instale as dependências:
     pip install openpyxl
